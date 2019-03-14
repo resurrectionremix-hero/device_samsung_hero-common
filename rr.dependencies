@@ -1,0 +1,26 @@
+[
+   {
+    "remote": "github",
+    "repository": "resurrectionremix-hero/kernel_samsung_universal8890",
+    "target_path": "kernel/samsung/universal8890",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "resurrectionremix-hero/hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "resurrectionremix-hero/vendor_samsung_hero-common",
+    "target_path": "vendor/samsung/hero-common",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "resurrectionremix-hero/vendor_samsung_bsp",
+    "target_path": "vendor/samsung/bsp",
+    "branch": "pie"
+  }
+]
