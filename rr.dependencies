@@ -12,15 +12,15 @@
     "branch": "pie"
   },
    {
-    "remote": "github",
-    "repository": "resurrectionremix-hero/vendor_samsung_hero-common",
+    "remote": "gitlab",
+    "repository": "development-8890/proprietary_vendor_samsung_hero-common",
     "target_path": "vendor/samsung/hero-common",
     "branch": "pie"
   },
    {
-    "remote": "github",
-    "repository": "resurrectionremix-hero/vendor_samsung_bsp",
-    "target_path": "vendor/samsung/bsp",
+    "remote": "gitlab",
+    "repository": "development-8890/proprietary_vendor_seal",
+    "target_path": "vendor/seal/seal",
     "branch": "pie"
   }
 ]
