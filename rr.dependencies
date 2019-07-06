@@ -15,12 +15,12 @@
     "remote": "gitlab",
     "repository": "development-8890/proprietary_vendor_samsung_hero-common",
     "target_path": "vendor/samsung/hero-common",
-    "branch": "pie"
+    "branch": "master"
   },
    {
     "remote": "gitlab",
     "repository": "development-8890/proprietary_vendor_seal",
     "target_path": "vendor/seal/seal",
-    "branch": "pie"
+    "branch": "master"
   }
 ]
