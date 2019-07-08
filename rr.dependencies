@@ -12,14 +12,14 @@
     "branch": "pie"
   },
    {
-    "remote": "gitlab",
-    "repository": "development-8890/proprietary_vendor_samsung_hero-common",
+    "remote": "github",
+    "repository": "eazyfire1/pvshc",
     "target_path": "vendor/samsung/hero-common",
     "branch": "master"
   },
    {
-    "remote": "gitlab",
-    "repository": "development-8890/proprietary_vendor_seal",
+    "remote": "github",
+    "repository": "eazyfire1/pvs",
     "target_path": "vendor/seal/seal",
     "branch": "master"
   }
