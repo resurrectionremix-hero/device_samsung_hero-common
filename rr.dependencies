@@ -1,7 +1,7 @@
 [
    {
     "remote": "github",
-    "repository": "resurrectionremix-hero/kernel_samsung_universal8890",
+    "repository": "ivanmeler/android_kernel_samsung_herolte",
     "target_path": "kernel/samsung/universal8890",
     "branch": "lineage-16.0"
   },
