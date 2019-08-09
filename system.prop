@@ -5,4 +5,4 @@ import /efs/factory.prop
 ro.boot.bootdevice=155a0000.ufs
 
 # Force Vendor HAL1
-vendor.camera.hal1.packagelist=com.facebook.orca,com.facebook.katana,com.whatsapp,com.snapchat.android,com.skype.raider,com.instagram.android
+vendor.camera.hal1.packagelist=com.facebook.orca,com.facebook.katana,com.whatsapp,com.instagram.android
