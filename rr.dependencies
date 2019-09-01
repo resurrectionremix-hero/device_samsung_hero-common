@@ -21,6 +21,6 @@
     "remote": "github",
     "repository": "eazyfire1/pvs",
     "target_path": "vendor/seal/seal",
-    "branch": "master"
+    "branch": "pie"
   }
 ]
